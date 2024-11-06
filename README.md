@@ -7,7 +7,7 @@
 ## 🔧 Skills & Tools
  - **Data Analysis:** Python (Pandas, NumPy), SQL, Excel
  - **Data Visualization:** Tableau, Matplotlib, Seaborn
- - **Statistical Analysis:** correlation analysis, Time Series Analysis
+ - **Statistical Analysis:** Correlation analysis, Time Series Analysis
 
 
 
