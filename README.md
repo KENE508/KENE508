@@ -16,7 +16,7 @@
 ### [💸 Inflation Rate Analysis](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria)
 Analyzed the inflation rate in Nigeria for over a decade to identify factors affecting price increases and their impact on the economy.
 
-### [📈Customer Churn Analysis](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria)
+### [📈Customer Churn Analysis]([https://github.com/KENE508/Customer-Churn-Analysis-and-Retention-Strategies])
 Analyzed customer data to identify patterns in churn behavior and recommended strategies for retention.
 
 ### [🎬 Netflix Content Analysis](https://github.com/KENE508/Netflix-Content-Strategy-Project)
