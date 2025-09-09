@@ -22,7 +22,7 @@ Analyzed customer data to identify patterns in churn behavior and recommended st
 ### [🎬 Netflix Content Analysis](https://github.com/KENE508/Netflix-Content-Strategy-Project)
 Explored Netflix’s content distribution to support content strategy with insights on genre popularity and viewership trends.
 
-### [🔍 Hypothesis Testing](https://github.com/KENE508/Hypothesis-Testing-)
+### [🔍 Hypothesis Testing](https://github.com/KENE508/Hypothesis-Testing-/blob/main/Hypothesis_Testing_with_Churn_Data.ipynb)
 
 
 
